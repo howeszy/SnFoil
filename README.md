@@ -1,3 +1,3 @@
 # Sn::Foil
 
-This project is now maintained @ [Limited Effort](ttps://github.com/limited-effort/snfoil)
+<h2>This project is now maintained @ <a href="https://github.com/limited-effort/snfoil">Limited Effort</a><h2>
